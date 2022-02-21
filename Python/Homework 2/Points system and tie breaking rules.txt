@@ -1,0 +1,14 @@
+Points system:
+3 points for the win
+1 point for the draw
+0 points for the loss
+
+Tie breaking rules for the English League:
+1. Goal difference overall
+2. Higher number of goals scored
+
+Tie breaking rules for the Italian League:
+1. Head-to-head records (results and points)
+2. Goal difference of head-to-head games
+3. Goal difference overall
+4. Higher number of goals scored
